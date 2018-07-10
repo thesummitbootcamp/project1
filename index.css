@@ -1,0 +1,167 @@
+html{
+  height: 100%;
+  weight:100%;
+}
+
+body{
+  text-align: center;
+  height:100%;
+  width:100%;
+}
+
+
+.section-1
+	{
+	background-image: url("https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  padding:400px;
+  border:0px;
+  height:75%;
+  width:75%;
+  font-size:30px;
+  }
+
+.h1{
+  margin: 10px;
+}
+
+.h1:hover{
+  background-color:#ecb807;
+  color:white;
+
+}
+.section-2{
+  background-color: #f8f9fa;
+  padding:400px;
+  background-size:cover;
+  height:75%;
+  width:75%;
+}
+
+#second{
+  border-radius: 10px;
+  background-color: #0062cc;
+  color:white;
+  height: 75%;
+  width:75%;
+  font-size:35px;
+}
+
+.section-3{
+  padding:40px;
+  background-color:#1d809f;
+  color: white;
+  height:100%;
+  width:100%;
+  background-size: cover;
+}
+
+.callout{
+  background-image: url("https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg");
+  background-size: cover;
+  height: 75%;
+  width:75%;
+  padding:400px;
+  font-size:35px;
+  }
+
+.services{
+  color:#ecb807;
+}
+
+#h3{
+  padding:1px;
+}
+
+#section-5{
+  background-image: url("https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-1.jpg");
+  height:100%;
+  width:100%;
+  background-repeat: no-repeat;
+  padding:400px;
+
+
+}
+#section-5:hover{
+  background-image: url("https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-1.jpg");
+  height:100%;
+  width:100%;
+  background-repeat: no-repeat;
+  padding:400px;
+  opacity: 20%
+  border:75%;
+}
+
+.heading{
+  color:white;
+}
+
+.box{
+  height:370px;
+  width:555px;
+  background:#155d74;
+  position:relative;
+  overflow:hidden;
+}
+
+.box img {
+  position:relative;
+}
+
+.box h1{
+  position:absolute;
+  bottom: 60px;
+  left:60px;
+  color: white;
+}
+
+.border-box {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0px solid white;
+  box-sizing: border-box;
+  transition: border 0.25s;
+  z-index: 1;
+}
+
+.box:hover img{
+  opacity:0.3;
+}
+
+.box:hover .border-box {
+  border: 30px solid white;
+}
+
+#image1{
+  width: 50%;
+}
+
+#image2{
+  width: 50%;
+
+}
+
+.content-section{
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
+.container {
+  width: 100%;
+  padding-right:15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.portfolio.item{
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1em;
+}
