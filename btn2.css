@@ -1,0 +1,44 @@
+.btn{
+    background-color: #1d809f;
+    border-radius: 10px;
+    border-color:#1d809f;
+    padding:20px;
+    margin:20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.btn:hover{
+    background-color: #0d3a47;
+    border-color:#0d3a47;
+}
+
+
+
+.btn-2{
+    background-color:#343a40;
+    border-color: #343a40;
+    color: white;
+}
+
+.btn-2:hover{
+    background-color:#1c2229;
+    border-color: #1c2229;
+}
+
+
+.btn-3{
+    background-color:white;
+    border-color: white;
+    color: black;
+}
+
+.btn-3:hover{
+    background-color:rgb(170, 166, 166);
+    border-color: rgb(170, 166, 166);
+}
+
+.btn-1{
+    padding: top 40px;
+}
