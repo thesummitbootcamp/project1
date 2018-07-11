@@ -1,0 +1,38 @@
+html{
+  height: 100%;
+  width:100%;
+}
+
+body{
+  text-align: center;
+  height:100%;
+  width:100%;
+}
+
+
+.section-1
+	{
+	background-image: url("https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  padding:400px;
+  border:0px;
+  height:75%;
+  width:75%;
+  font-size:30px;
+  }
+
+.section-1.h1{
+  margin: 10px;
+}
+
+.section-1.h1:hover{
+  background-color:#ecb807;
+  color:white;
+
+}
+
+.section-2 {
+    
+}
+

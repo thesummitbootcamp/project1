@@ -1,12 +1,29 @@
+.text-center{
+  text-align: center;
+}
+
+
+
 .btn {
     background-color: #0062cc;
     color: white;
     border-radius: 10px;
-    height: 45px;
+    padding: 10px;
+    height: 100px;
     width: 150px;
     border: none
-    
   }
+
+  .btn-info {
+    background-color: #0062cc;
+    color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 150px;
+    border: none
+  }
+
+
   .btn:hover {
     background-color: #155d74;
     color: white;
